@@ -1,4 +1,4 @@
-#  Applicazione Fullstack ecommerce Sprong boot React (primo progetto di fine formazioen)
+#  Applicazione Fullstack ecommerce Spring boot React (primo progetto di fine formazioen)
 
  Screenshot Home![Screenshot 2025-01-15 022732](https://github.com/user-attachments/assets/9124987a-5f2a-4af1-8a20-940479cb15db)
 >
