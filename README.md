@@ -30,7 +30,7 @@ Questo progetto utilizza diversi concetti fondamentali della programmazione e de
 - **Backend con Eclipse**: Sviluppato con Eclipse IDE per acquisire familiarità con strumenti professionali utilizzati in progetti complessi.
 - **Abitudine al Lavoro in Team**: La separazione tra frontend e backend consente un approccio modulare e simula un ambiente di lavoro reale in team e per applicazioni complessi.
 
-## Perché Amazon Web Services (AWS)?
+## Perché ho usato Amazon Web Services (AWS)?
 AWS è una soluzione di cloud computing leader nel settore e offre numerosi vantaggi nello sviluppo di applicazioni complessi:
 
 1. **Scalabilità**: Permette di gestire grandi quantità di dati senza problemi di prestazioni.
